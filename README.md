@@ -9,8 +9,7 @@ I'm a passionate Front-End Developer with expertise in HTML, CSS, JavaScript.
 Visit my portfolio for a detailed overview of my projects and skills: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=github)](https://github.com/Vanssshika/vanshika_portfolioo)
 
 ### Social Media 📡:
-- Join me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/
-vanshika-jain-2146a8252)
+- Join me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]("https://www.linkedin.com/public-profile/settings")
 
 ---
 
